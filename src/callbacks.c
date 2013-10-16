@@ -223,7 +223,7 @@ void on_clientapp_selection_received (GtkWidget *widget,
 
 
 
-static float line_thickener = 0;
+static float line_thickener = 0.2;
 
 
 gboolean on_buttonpress (GtkWidget *win, 
